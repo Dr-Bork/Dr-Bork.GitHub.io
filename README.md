@@ -1,3 +1,3 @@
 # GitHub.io
 ## Games
-* [Lander] (Dr-Bork.GitHub.io/flo.index.html)
+* [Lander](https://Dr-Bork.GitHub.io/flo/index.html)
